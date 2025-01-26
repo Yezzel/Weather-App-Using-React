@@ -6,7 +6,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 30%;
+  width: 38%;
 }
 .search-bar{
   display: flex;
@@ -17,13 +17,12 @@
   height: 50px;
   border: none;
   outline: none;
-  padding: 30px;
+  padding: 20px;
   border-radius: 40px;
   padding-left: 25px;
   color: #626262;
   font-size: 20px;
-  width: 100%;
-  background: transparent;
+  background:transparent;
   border: 1px solid #e0dfdf;
   color: #d9d9d9;
   border-left-color: #fff;
@@ -35,7 +34,7 @@
 }
 .search-bar img{
   border-radius: 50%;
-  width: 75px;
+  width: 52px;
   padding: 20px;
   cursor: pointer;
   background: transparent;
