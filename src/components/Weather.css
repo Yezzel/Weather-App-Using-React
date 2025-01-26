@@ -22,28 +22,19 @@
   padding-left: 25px;
   color: #626262;
   font-size: 20px;
-  background:transparent;
-  border: 1px solid #e0dfdf;
-  color: #d9d9d9;
-  border-left-color: #fff;
-  border-right-color: #fff;
-  
+  background:#fff;
 }
 .search-bar input::placeholder{
-  color: rgb(197, 196, 196);
+  color: rgb(70, 70, 70);
 }
 .search-bar img{
   border-radius: 50%;
   width: 52px;
   padding: 20px;
   cursor: pointer;
-  background: transparent;
-  border: 1px solid #e3e3e3;
-  color: #fff;
-  border-left-color:#fff;
-  border-right-color: #fff;
-  border-top-color: #fff;
+  background:#fff;
 }
+
 .weather-icon{
   width: 125px;
   margin: 15px 0;
